@@ -1,9 +1,9 @@
 # SQL памятка
 
-__select * from toledo15__ - получение всех записей из таблицы
+_select * from toledo15_ - получение всех записей из таблицы
 
-__SELECT COUNT(*) FROM toledo15__ - получение колличества записей
+_SELECT COUNT(*) FROM toledo15_ - получение колличества записей
 
-__delete from toledo15 where product_id > 0__ - удаление всех записей таблицы manticore search
+_delete from toledo15 where product_id > 0_ - удаление всех записей таблицы manticore search
 
-__mysql -P9306 -h127.0.0.1__ - соединение с manticore из cli
+_mysql -P9306 -h127.0.0.1_ - соединение с manticore из cli
